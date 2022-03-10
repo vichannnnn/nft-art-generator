@@ -1,0 +1,43 @@
+{
+    "image": "https://gateway.pinata.cloud/ipfs/QmTJgvDuf3hD6eZ2DAus34qLfnM7HqfJwZjdbYAjtXHsxn/onnanoko_72.png",
+    "tokenId": 72,
+    "name": "Girl NFT 72",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pastel Pink"
+        },
+        {
+            "trait_type": "Blush",
+            "value": "Nothing"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Girl"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Winter Uniform"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Eyes"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Headband"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Witch Hat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Dot"
+        },
+        {
+            "trait_type": "Scarf",
+            "value": "Nothing"
+        }
+    ]
+}

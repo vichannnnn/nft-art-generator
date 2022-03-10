@@ -1,0 +1,43 @@
+{
+    "image": "https://gateway.pinata.cloud/ipfs/QmTJgvDuf3hD6eZ2DAus34qLfnM7HqfJwZjdbYAjtXHsxn/onnanoko_48.png",
+    "tokenId": 48,
+    "name": "Girl NFT 48",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pastel Green"
+        },
+        {
+            "trait_type": "Blush",
+            "value": "Nothing"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Girl"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "School Uniform"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Eyes"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Perm Hair"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Sailor Hat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Normal"
+        },
+        {
+            "trait_type": "Scarf",
+            "value": "Nothing"
+        }
+    ]
+}

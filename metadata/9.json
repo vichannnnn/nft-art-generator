@@ -1,0 +1,43 @@
+{
+    "image": "https://gateway.pinata.cloud/ipfs/QmTJgvDuf3hD6eZ2DAus34qLfnM7HqfJwZjdbYAjtXHsxn/onnanoko_9.png",
+    "tokenId": 9,
+    "name": "Girl NFT 9",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pastel Blue"
+        },
+        {
+            "trait_type": "Blush",
+            "value": "Blush"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Girl"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Swimsuit"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Eyes"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Long Hair with Hairclips"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Witch Hat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Happy"
+        },
+        {
+            "trait_type": "Scarf",
+            "value": "Scarf"
+        }
+    ]
+}

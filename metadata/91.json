@@ -1,0 +1,43 @@
+{
+    "image": "https://gateway.pinata.cloud/ipfs/QmTJgvDuf3hD6eZ2DAus34qLfnM7HqfJwZjdbYAjtXHsxn/onnanoko_91.png",
+    "tokenId": 91,
+    "name": "Girl NFT 91",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pastel Purple"
+        },
+        {
+            "trait_type": "Blush",
+            "value": "Nothing"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Girl"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Sleeveless Shirt"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Eyes"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Perm Hair"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Witch Hat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Happy"
+        },
+        {
+            "trait_type": "Scarf",
+            "value": "Nothing"
+        }
+    ]
+}

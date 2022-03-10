@@ -1,0 +1,43 @@
+{
+    "image": "https://gateway.pinata.cloud/ipfs/QmTJgvDuf3hD6eZ2DAus34qLfnM7HqfJwZjdbYAjtXHsxn/onnanoko_83.png",
+    "tokenId": 83,
+    "name": "Girl NFT 83",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pastel Green"
+        },
+        {
+            "trait_type": "Blush",
+            "value": "Nothing"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Girl"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Dress"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Eyes"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Short Hair"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Nothing"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Dot"
+        },
+        {
+            "trait_type": "Scarf",
+            "value": "Nothing"
+        }
+    ]
+}

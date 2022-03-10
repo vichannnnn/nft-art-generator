@@ -1,0 +1,43 @@
+{
+    "image": "https://gateway.pinata.cloud/ipfs/QmTJgvDuf3hD6eZ2DAus34qLfnM7HqfJwZjdbYAjtXHsxn/onnanoko_15.png",
+    "tokenId": 15,
+    "name": "Girl NFT 15",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Starlight River"
+        },
+        {
+            "trait_type": "Blush",
+            "value": "Nothing"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Girl"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Swimsuit"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Eyes"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Long Hair"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Summer Hat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Grinning"
+        },
+        {
+            "trait_type": "Scarf",
+            "value": "Scarf"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "image": "https://gateway.pinata.cloud/ipfs/QmTJgvDuf3hD6eZ2DAus34qLfnM7HqfJwZjdbYAjtXHsxn/onnanoko_30.png",
+    "tokenId": 30,
+    "name": "Girl NFT 30",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pastel Pink"
+        },
+        {
+            "trait_type": "Blush",
+            "value": "Nothing"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Girl"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Swimsuit"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Eyes"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Short Hair"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Nothing"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Grinning"
+        },
+        {
+            "trait_type": "Scarf",
+            "value": "Nothing"
+        }
+    ]
+}

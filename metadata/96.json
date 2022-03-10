@@ -1,0 +1,43 @@
+{
+    "image": "https://gateway.pinata.cloud/ipfs/QmTJgvDuf3hD6eZ2DAus34qLfnM7HqfJwZjdbYAjtXHsxn/onnanoko_96.png",
+    "tokenId": 96,
+    "name": "Girl NFT 96",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pastel Purple"
+        },
+        {
+            "trait_type": "Blush",
+            "value": "Nothing"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Girl"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Winter Uniform"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Eyes"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Perm Hair"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Nothing"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Grinning"
+        },
+        {
+            "trait_type": "Scarf",
+            "value": "Nothing"
+        }
+    ]
+}

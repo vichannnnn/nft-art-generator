@@ -1,0 +1,43 @@
+{
+    "image": "https://gateway.pinata.cloud/ipfs/QmTJgvDuf3hD6eZ2DAus34qLfnM7HqfJwZjdbYAjtXHsxn/onnanoko_27.png",
+    "tokenId": 27,
+    "name": "Girl NFT 27",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pastel Blue"
+        },
+        {
+            "trait_type": "Blush",
+            "value": "Nothing"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Girl"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Sleeveless Shirt"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Eyes"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Long Hair"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Witch Hat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Normal"
+        },
+        {
+            "trait_type": "Scarf",
+            "value": "Nothing"
+        }
+    ]
+}

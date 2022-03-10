@@ -1,0 +1,43 @@
+{
+    "image": "https://gateway.pinata.cloud/ipfs/QmTJgvDuf3hD6eZ2DAus34qLfnM7HqfJwZjdbYAjtXHsxn/onnanoko_50.png",
+    "tokenId": 50,
+    "name": "Girl NFT 50",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pastel Pink"
+        },
+        {
+            "trait_type": "Blush",
+            "value": "Nothing"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Girl"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "School Uniform"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Eyes"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Long Hair with Hairclips"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Nothing"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Dot"
+        },
+        {
+            "trait_type": "Scarf",
+            "value": "Scarf"
+        }
+    ]
+}
